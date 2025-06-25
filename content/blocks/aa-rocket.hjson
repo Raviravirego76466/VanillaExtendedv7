@@ -18,7 +18,7 @@
 	"targetAir": true,
    "ammoUseEffect": "none",
 	"ammoTypes": {
-		"[#25f12f]vanilla-extended[]-rocket": {
+		"rocket": {
 			"type": "MissileBulletType",
 			"lifetime": 60,
 			"speed": 12,
