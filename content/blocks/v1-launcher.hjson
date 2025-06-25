@@ -13,7 +13,7 @@
 	"rotateSpeed": 1.5,
    "ammoUseEffect": "none",
 	"ammoTypes": {
-		"[#25f12f]vanilla-extended[]-v1-item": {
+		"v1-item": {
 			"type": "MissileBulletType",
 			"lifetime": 600,
 			"speed": 7.5,
