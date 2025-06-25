@@ -30,7 +30,7 @@
 			"splashDamage": 6000,
 			"sprite": "[#25f12f]vanilla-extended[]-nuke-bullet"
 		},
-		"[#25f12f]vanilla-extended[]-thnuke": {
+		"nuke": {
 			"type": "ArtilleryBulletType",
 			"lifetime": 600,
 			"speed": 3.0,
