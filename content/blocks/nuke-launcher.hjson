@@ -13,7 +13,7 @@
 	"rotateSpeed": 0.05,
 	"targetAir": "false",
 	"ammoTypes": {
-		"[#25f12f]vanilla-extended[]-nuke": {
+		"nuke": {
 			"type": "ArtilleryBulletType",
 			"lifetime": 600,
 			"speed": 3.0,
